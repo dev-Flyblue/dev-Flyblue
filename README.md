@@ -33,18 +33,10 @@
 
 <br>
 
-<p align="center">
-  <table align="center">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=dev-Flyblue&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-Flyblue&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" />
-      </td>
-    </tr>
-  </table>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-Flyblue&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-Flyblue&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" />
+</div>
 
 <br>
 
